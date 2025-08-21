@@ -2,7 +2,7 @@
 
 A simple **OpenAI-powered chatbot** built in Python. This project demonstrates how to interact with the OpenAI API to build a conversational agent.  
 
----
+
 
 ## ✨ Features  
 
